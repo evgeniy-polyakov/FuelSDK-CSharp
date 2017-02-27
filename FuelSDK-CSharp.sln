@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelSDK-CSharp", "FuelSDK-CSharp\FuelSDK-CSharp.csproj", "{50281782-FA9F-44B3-A073-3759A5CA1CD8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "objsamples", "objsamples\objsamples.csproj", "{3E140C94-A503-47C9-9381-40AE7FAB2049}"
@@ -21,21 +23,23 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug.4|Any CPU.ActiveCfg = Debug.4|Any CPU
-		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug.4|Any CPU.Build.0 = Debug.4|Any CPU
-		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug.4|Mixed Platforms.ActiveCfg = Debug.4|Any CPU
-		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug.4|Mixed Platforms.Build.0 = Debug.4|Any CPU
-		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug.4|x86.ActiveCfg = Debug.4|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug.4|Any CPU.ActiveCfg = Debug|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug.4|Any CPU.Build.0 = Debug|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug.4|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug.4|Mixed Platforms.Build.0 = Debug|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug.4|x86.ActiveCfg = Debug|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug.4|x86.Build.0 = Debug|Any CPU
 		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
 		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
 		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release.4|Any CPU.ActiveCfg = Release.4|Any CPU
-		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release.4|Any CPU.Build.0 = Release.4|Any CPU
-		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release.4|Mixed Platforms.ActiveCfg = Release.4|Any CPU
-		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release.4|Mixed Platforms.Build.0 = Release.4|Any CPU
-		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release.4|x86.ActiveCfg = Release.4|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release.4|Any CPU.ActiveCfg = Release|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release.4|Any CPU.Build.0 = Release|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release.4|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release.4|Mixed Platforms.Build.0 = Release|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release.4|x86.ActiveCfg = Release|Any CPU
+		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release.4|x86.Build.0 = Release|Any CPU
 		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{50281782-FA9F-44B3-A073-3759A5CA1CD8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
